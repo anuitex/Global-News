@@ -3,6 +3,7 @@
 ## A news website enabling people to be kept up-to-date on world events
 
 <img src="Screens/GN-Home.jpg" width="100%">
+
 ### Introduction
 
 Global News is a pattern of a single-page news website which is built on Vue.js. The website consists of the home page, seven thematic categories, currency converter, and weather. Basing on a user geolocation, it displays the current date and weather details.
