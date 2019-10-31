@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.66" height="65" viewBox="0 0 112.66 65">
+  <g id="weather" transform="translate(-528 -22)">
+    <g id="gradus" transform="translate(-4)">
+      <g id="london" transform="translate(-294 3)">
+        <text id="Glasgow" transform="translate(870 78)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-34.864" y="0">Glasgow</tspan></text>
+        <path id="Path_9" data-name="Path 9" d="M1592.627,260.223l4.58,4.58,4.58-4.58Z" transform="translate(-663.127 -208.223)" fill="#f8c61a"/>
+      </g>
+      <g id="degree" transform="translate(20.456 -5)">
+        <g id="Group_17" data-name="Group 17" transform="translate(-342 11)">
+          <g id="Group_16" data-name="Group 16" transform="translate(3)">
+            <g id="Group_14" data-name="Group 14" transform="translate(12)">
+              <text id="_9" data-name="+9" transform="translate(878 47)" fill="#fff" font-size="28" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">+9</tspan></text>
+              <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(916 23)" fill="none" stroke="#fff" stroke-width="1">
+                <circle cx="2.75" cy="2.75" r="2.75" stroke="none"/>
+                <circle cx="2.75" cy="2.75" r="2.25" fill="none"/>
+              </g>
+            </g>
+          </g>
+          <text id="С" transform="translate(943 38)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-6.191" y="0">С</tspan></text>
+        </g>
+        <g id="clouds" transform="translate(-147.665 -273.558)">
+          <path id="Icon_ionic-ios-cloud" data-name="Icon ionic-ios-cloud" d="M20.431,13A7.011,7.011,0,0,0,7.694,9.774a3.313,3.313,0,0,0-1.257-.248A3.462,3.462,0,0,0,3.1,12.957,4.566,4.566,0,0,0,0,17.29a4.4,4.4,0,0,0,4.249,4.417H19.688a4.4,4.4,0,0,0,.743-8.7Z" transform="translate(665.192 305.25)" fill="#8e8e8e"/>
+          <path id="Icon_ionic-ios-cloud-2" data-name="Icon ionic-ios-cloud" d="M20.431,13A7.011,7.011,0,0,0,7.694,9.774a3.313,3.313,0,0,0-1.257-.248A3.462,3.462,0,0,0,3.1,12.957,4.566,4.566,0,0,0,0,17.29a4.4,4.4,0,0,0,4.249,4.417H19.688a4.4,4.4,0,0,0,.743-8.7Z" transform="translate(659.208 307.909)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

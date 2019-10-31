@@ -1,0 +1,55 @@
+
+@font-face{
+    font-family: 'Amiri-Regular';
+    font-style: normal;
+    font-weight: 400;
+    src:url('../fonts/Amiri-Regular.ttf') format('ttf');
+    }
+
+
+    @font-face {
+        font-family: 'Amiri-Bold';
+        src: url('../fonts/Amiri-Bold.eot') format('eot'),
+        url('../fonts/Amiri-Bold.svg#Amiri-Bold') format('svg'),
+        url('../fonts/Amiri-Bold.ttf') format('truetype'),
+        url('../fonts/Amiri-Bold.woff') format('woff'),
+        url('../fonts/Amiri-Bold.woff2') format('woff2');
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      @font-face {
+        font-family: 'Poppins-Regular';
+        src: url('../fonts/Poppins-Regular.ttf') format('truetype');
+        font-style: normal;
+      }
+
+@font-face {
+font-family: 'Poppins-SemiBold';
+src: url('../fonts/Poppins-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Poppins-Bold';
+src: url('../fonts/Poppins-Bold.ttf') format('truetype');
+font-weight: 700px;
+}
+
+
+@font-face {
+font-family: 'Poppins-Regular';
+src: url('../fonts/Poppins-Regular.ttf') format('truetype');
+font-weight: 700px;
+}
+
+@font-face {
+font-family: 'Poppins-Light';
+src: url('../fonts/Poppins-Light.ttf') format('truetype');
+font-weight: 700px;
+}
+
+@font-face {
+font-family: 'Poppins-Medium';
+src: url('../fonts/Poppins-Medium.ttf') format('truetype');
+font-weight: 700px;
+}

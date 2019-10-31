@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.92" height="17.617" viewBox="0 0 29.92 17.617">
+  <g id="Group_51" data-name="Group 51" transform="translate(-511.544 -38.442)">
+    <g id="clouds" transform="translate(-147.665 -273.558)">
+      <path id="Icon_ionic-ios-cloud" data-name="Icon ionic-ios-cloud" d="M20.431,13A7.011,7.011,0,0,0,7.694,9.774a3.313,3.313,0,0,0-1.257-.248A3.462,3.462,0,0,0,3.1,12.957,4.566,4.566,0,0,0,0,17.29a4.4,4.4,0,0,0,4.249,4.417H19.688a4.4,4.4,0,0,0,.743-8.7Z" transform="translate(665.192 305.25)" fill="#8e8e8e"/>
+      <path id="Icon_ionic-ios-cloud-2" data-name="Icon ionic-ios-cloud" d="M20.431,13A7.011,7.011,0,0,0,7.694,9.774a3.313,3.313,0,0,0-1.257-.248A3.462,3.462,0,0,0,3.1,12.957,4.566,4.566,0,0,0,0,17.29a4.4,4.4,0,0,0,4.249,4.417H19.688a4.4,4.4,0,0,0,.743-8.7Z" transform="translate(659.208 307.909)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

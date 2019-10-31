@@ -1,0 +1,7 @@
+.mapboxgl-canvas {
+    position: absolute;
+    left: 0 !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    top: 0 !important;
+}
