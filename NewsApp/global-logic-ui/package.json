@@ -20,7 +20,7 @@
     "bootstrap-vue": "^2.0.4",
     "core-js": "^3.1.2",
     "eslint-loader": "^2.1.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "laravel-vue-pagination": "^2.3.1",
     "lodash": "^4.17.15",
     "mapbox": "^1.0.0-beta10",
